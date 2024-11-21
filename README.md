@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World!<br>My name is Evgenii, I am 24 yo. <br><br>I am Frontend Developer with 5 years experience.<br>I made two big production projects from scratch.<br>I love music so much and I am making it in Ableton Live.<br>I love making videos while traveling, editing them and posting them on social media.<br>I like motorcycles <3<br>
+Hello World!<br>My name is Evgenii, I am 25 yo. <br><br>I am Lead Frontend Dev, with 5+ years experience. <br/> I love music so much and I am making it in Ableton Live.<br>I love making videos while traveling, editing them and posting them on social media.<br>I like motorcycles <3<br>
 
 
 ## 🌐 Socials:
